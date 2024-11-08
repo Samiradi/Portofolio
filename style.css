@@ -227,3 +227,7 @@ nav ul li a {
     padding: 1rem 1.3rem;
     border-radius: 0.5rem;
 }
+
+.service-icon svg {
+    fill: var(--primaryIconColor);
+}
